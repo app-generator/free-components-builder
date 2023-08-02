@@ -1,8 +1,8 @@
-# Free Components Builder by [Simpllo](https://www.simpllo.com/)
+# Components Builder by [Simpllo](https://www.simpllo.com/)
 
-Code and design components for Bootstrap, Tailwind, PICO - Free tool actively supported by `AppSeed`.
+Code and design components for `Bootstrap`, `Tailwind`, `PICO.css` - Free tool actively supported by `AppSeed`.
 
-> STATUS: `Work in Progress` 
+> STATUS: `Work in Progress`
 
 <br />
 
