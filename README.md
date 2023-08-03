@@ -14,6 +14,7 @@ Code and design components for `Bootstrap`, `Tailwind`, `PICO.css` - Free tool a
 | ❌ | **Persistence** | `Local Storage` |
 | ❌ | **Components** | `Bootstrap 5` |
 | ❌ | **Components** | `Tailwind` |
+| ❌ | **Components** | `Bulma` |
 | ❌ | **Components** | `PICO.css` |
 | ❌ | Edits | `Styling` |
 | ❌ | Edits | `Fonts` |
